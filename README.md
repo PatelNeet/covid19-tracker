@@ -33,7 +33,7 @@ The project is going to fetch the live data from the API using Async/Await synta
   <li>npm install --save chart.js</li>
 </ul>
 
-<h6>To run your project type following command</h6>
+<h6>To run your project use following command</h6>
 <ul>
   <li>npm start</li>
 </ul>
