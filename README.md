@@ -1,8 +1,6 @@
 # COVID19-Tracker
 
-<h2></h2>
 <center><a href="/"> <img src="https://github.com/PatelNeet/covid19-tracker/blob/main/src/images/websiteview.jpg"> </a></center>
-
 
 <h2> Introduction </h2>
 <p>
@@ -20,7 +18,6 @@ The project is going to fetch the live data from the API using Async/Await synta
 <p>Live Porject Demo : https://covid19-tracker-ef408.web.app/ </p>
 
  
-
 <h2>Setup:</h2>
 
 <h5>To run the Porject You need to download following Dependencies!</h5>
