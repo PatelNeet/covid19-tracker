@@ -15,12 +15,12 @@ The project is going to fetch the live data from the API using Async/Await synta
  </ul>
 </p>
 
-<p>Live Porject Demo : https://covid19-tracker-ef408.web.app/ </p>
+<p>Live Project Demo Link : https://covid19-tracker-ef408.web.app/ </p>
 
  
 <h2>Setup:</h2>
 
-<h5>To run the Porject You need to download following Dependencies!</h5>
+<h5>To run the Project You need to download following Dependencies!</h5>
 
 <h6>Go to your CMD and run following commands</h6>
 <ul>
