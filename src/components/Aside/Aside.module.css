@@ -1,0 +1,62 @@
+.aside_container{
+    background-color: white;
+    margin: 0px;
+    padding: 10px;
+    height: auto;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.1);
+    width: 20%;
+}
+
+.aside_container > h1 {
+    text-align: center;
+    margin: auto;
+    padding: 20px 0 20px 0;
+    color: rgb(6, 131, 6);
+}
+
+.card{
+    text-align: center;
+}
+
+.card > img:hover {
+    /* animation: bounce 2s ease-in-out infinite; */
+    animation-name: hvr-icon-buzz;
+    animation-timing-function: linear;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes hvr-icon-buzz {
+    50% {
+      transform: translateX(3px) rotate(4deg);
+    }
+  
+    100% {
+      transform: translateX(-3px) rotate(-4deg);
+    }
+  }
+
+
+@media (max-width: 962px) {
+    .aside_container{
+        height: auto;
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        box-shadow: 0;
+    }
+
+    .card > img {
+        height: 80px;
+        width: 80px;
+    }
+
+    
+    .row{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+}
+
