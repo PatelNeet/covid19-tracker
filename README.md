@@ -23,8 +23,9 @@ The project is going to fetch the live data from the API using Async/Await synta
 <h5>To run the Project You need to download following Dependencies!</h5>
 
 <h6>Go to your CMD and run following commands</h6>
+<p>First, Inside CMD set your CD as your project folder path. And than run following commands...</p>
 <ul>
-  <li>run npm i </li>
+  <li>npm install </li>
   <li>npm install --save axios react-chartjs-2 react-countup classnames</li>
   <li>npm install --save @material-ui/core</li>
   <li>npm install --save chart.js</li>
