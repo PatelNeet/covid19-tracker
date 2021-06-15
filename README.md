@@ -1,6 +1,6 @@
 # COVID19-Tracker
 
-<center><a href="/"> <img src="https://github.com/PatelNeet/covid19-tracker/blob/main/src/images/websiteview.jpg"> </a></center>
+<center><a href="/"> <img src="https://github.com/PatelNeet/covid19-tracker/blob/main/src/images/covid%2019%20tracker%20-%20github%20pic.jpg"> </a></center>
 
 <h2> Introduction </h2>
 <p>
