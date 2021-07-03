@@ -17,7 +17,7 @@ Corona Virus is, unfortunately, spreading through the entire world. What can we,
 
 <p>Live Project Demo Link : https://covid19-tracker-ef408.web.app/ </p>
 
- 
+
 <h2>Setup:</h2>
 
 <h5>To run the Project You need to download following Dependencies!</h5>
